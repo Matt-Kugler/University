@@ -1,0 +1,1 @@
+As part of this course I completed the first 4 Berkeley Pac-Man Projects (P1/P2/P3/P4) found at this [link](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/). All of these projects were completed with my own logic and I received full marks for each. 
